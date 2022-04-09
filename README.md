@@ -9,5 +9,5 @@
 
 </aside>
 
-**[AlgorithmStudy2022](https://github.com/junghojin/AlgorithmStudy2022) **
+**[AlgorithmStudy2022](https://github.com/junghojin/AlgorithmStudy2022)**
 

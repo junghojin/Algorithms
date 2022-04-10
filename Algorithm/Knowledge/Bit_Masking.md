@@ -15,7 +15,7 @@
 - \>> : 비트 열을 오른쪽으로 이동 (빈 공간은 부호비트로 채운다)
 - \>>> : 비트 열을 오른쪽으로 이동 (빈 공간은 0으로 채운다)
 
-<img width = "500" height = "300" src = "">
+<img width = "800" height = "400" src = "https://github.com/junghojin/DeveloperNote/blob/9dca1e0aec51db8f97a3040f559bdf76eb2ce2f4/Algorithm/img/bitmasking.JPG">
 
 > ‘**&’은 해당 숫자가 사용중인지, ‘|’은 해당 숫자를 사용 중임을 나타내기 위해 사용**
 > 

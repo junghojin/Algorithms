@@ -42,6 +42,8 @@
 |      문제      | 레벨 |                           URL                            | 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|
 | 합승 택시 요금  | Lv.3  | [문제](https://programmers.co.kr/learn/courses/30/lessons/72413) |[Code](https://github.com/junghojin/Algorithms/blob/1650cab6923b8eaa442b6c330caa90bdb99464b6/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/Kakao_2021B_lv3_1.java)|
+| 광고 삽입 | Lv.3   | [문제](https://programmers.co.kr/learn/courses/30/lessons/72414) |[Code](https://github.com/junghojin/Algorithms/blob/05234c4be75791dc3d6d0c70dbf9f50520310afc/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/Kakao_2021B_lv3_2.java)|
+
 
 
 <h3> 💛 Kakao 2022 KAKAO BLIND RECRUITMENT </h3>

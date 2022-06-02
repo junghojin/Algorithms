@@ -44,6 +44,7 @@ public class Solution {
             }
         }
 
+        // 초를 '시:분:초'의 형태로 바꾼다.
         int hour = earliestSnd / 3600;
         earliestSnd -= hour * 3600;
         int min = earliestSnd / 60;

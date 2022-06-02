@@ -27,7 +27,7 @@ public class Kakao_2021B_lv3_2 {
         }
 
         // System.out.println(Arrays.toString(cnts));
-        long maxCnt = Long.MIN_VALUE; // 누적 시간 초 (100시간 = 360,000초) * 로그개수(300,000) > int 범위
+        long maxCnt = Long.MIN_VALUE; // 누적 재생 수 (100시간 = 360,000초) * 로그개수(300,000) > int 범위
         int earliestSnd = 0; // 누적 재생 시간 중 가장 빠른 시작 시간
 
         // 광고 시간 범위 동안의 누적 재생 수가 많은 경우 중 가장 빠른 시각 구하기

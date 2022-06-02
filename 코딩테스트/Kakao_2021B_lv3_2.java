@@ -1,6 +1,6 @@
 // 2022. 06. 02 - 카카오 블라인드 - lv.3 - 광고 삽입
 
-public class Solution {
+public class Kakao_2021B_lv3_2 {
 
     public static void main(String[] args) {
         System.out.println(solution("99:59:59", "25:00:00",

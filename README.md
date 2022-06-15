@@ -50,7 +50,7 @@
 
 |      문제      | 레벨 |                           URL                            | 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|
-| <strong>실패율</strong>| Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[코드](https://github.com/junghojin/Algorithms/blob/3bbc9b490013a8fe840af48f9aff0c3b51699d9b/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/Kakao_2019B_lv1.java)|
+| <strong>실패율</strong>| Lv.1   | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |[Code](https://github.com/junghojin/Algorithms/blob/3bbc9b490013a8fe840af48f9aff0c3b51699d9b/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/Kakao_2019B_lv1.java)|
 
 
 

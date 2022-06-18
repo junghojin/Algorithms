@@ -2,7 +2,7 @@ import java.util.*;
 
 // 22.06.18 - 2021 KAKAO BLIND RECRUITMENT - 순위 검색
 
-class Kakao_2021B_lv2 {
+class Kakao_2021B_lv2 { 
     
     HashMap<String, ArrayList<Integer>> hm;
     

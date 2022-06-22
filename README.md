@@ -10,6 +10,7 @@
 |      문제      | 레벨 |                           URL                            | 코드 |  
 | :------------: | :--: | :------------------------------------------------------: |:--:|
 | <strong>톱니바퀴</strong> |  골드5  | [문제](https://www.acmicpc.net/problem/14891) |[Code](https://github.com/junghojin/DeveloperNote/blob/b05e5b235eabef74a855196b3e1ff2b7474b254d/Algorithm/BOJ/Main_14891.java)|
+|<strong>고냥이</strong>  | 골드4   | [문제](https://www.acmicpc.net/problem/16472) |[Code](https://github.com/junghojin/Algorithms/blob/main/백준/Main_16472.java)|
 
 
 <h3> 🔘 실버 </h3>
